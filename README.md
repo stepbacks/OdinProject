@@ -1,0 +1,1 @@
+This is to track changes of my resume website and to develop programmer skills.
